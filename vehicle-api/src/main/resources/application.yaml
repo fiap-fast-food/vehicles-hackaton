@@ -1,0 +1,13 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/fiap-veiculos
+
+api:
+  security:
+    token:
+      secret: ${JWT_SECRET:my-secret-key}
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html

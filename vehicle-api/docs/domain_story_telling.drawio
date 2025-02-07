@@ -1,0 +1,159 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
+  <diagram name="Página-1" id="u1FcFfff9J6Vb0H2zpsJ">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uughUS0tM0GX5OJOnPxA-1" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+          <mxGeometry x="36" y="314" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-2" value="Vendedor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="44" y="388" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/transportation-and-vehicle/128/Transportation_And_Vehicle_3-03-128.png;" vertex="1" parent="1">
+          <mxGeometry x="200" y="232" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.038;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="uughUS0tM0GX5OJOnPxA-1" target="uughUS0tM0GX5OJOnPxA-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="338" as="sourcePoint" />
+            <mxPoint x="170" y="288" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uughUS0tM0GX5OJOnPxA-7" target="uughUS0tM0GX5OJOnPxA-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="370" />
+              <mxPoint x="240" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-7" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;" vertex="1" parent="1">
+          <mxGeometry x="340" y="318" width="88.61" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-8" value="Cadastra Veiculo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="278" y="282.75" as="sourcePoint" />
+            <mxPoint x="339" y="327.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-11" value="Sistema" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="349.31" y="388" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-12" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;shadow=0;rounded=1;gradientColor=none;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-14" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;shadow=0;rounded=1;gradientColor=none;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="338" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-15" value="Confirma cadastro" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="368" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="910" y="270" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.003;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="350" as="sourcePoint" />
+            <mxPoint x="613.99" y="330.99" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-19" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;shadow=0;rounded=1;gradientColor=none;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="308" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-20" value="" style="shape=mxgraph.signs.transportation.vehicle_ferry;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="620" y="282" width="99" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-21" value="Lista Veículos Disponiveis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="589.5" y="250" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.14;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uughUS0tM0GX5OJOnPxA-20" target="uughUS0tM0GX5OJOnPxA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-25" value="Comprador" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="905" y="338" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.05;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="338" as="sourcePoint" />
+            <mxPoint x="719" y="444" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-28" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;shadow=0;rounded=1;gradientColor=none;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="368" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-29" value="&lt;div&gt;Seleciona Veículo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="619" y="398" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="450" as="sourcePoint" />
+            <mxPoint x="430" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/transportation-and-vehicle/128/Transportation_And_Vehicle_3-03-128.png;" vertex="1" parent="1">
+          <mxGeometry x="640" y="410" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-35" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;" vertex="1" parent="1">
+          <mxGeometry x="649" y="510" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uughUS0tM0GX5OJOnPxA-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940.5" y="382" as="sourcePoint" />
+            <mxPoint x="730" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-37" value="5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;shadow=0;rounded=1;gradientColor=none;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="398" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-38" value="Solicita Compra" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="629" y="560" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="530" as="sourcePoint" />
+            <mxPoint x="430" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-40" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="1">
+          <mxGeometry x="419.31" y="504" width="52" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="uughUS0tM0GX5OJOnPxA-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="420" as="sourcePoint" />
+            <mxPoint x="390" y="448" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-42" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;shadow=0;rounded=1;gradientColor=none;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="434" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-43" value="Processa Venda" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="570" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-44" value="Success" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.success;" vertex="1" parent="1">
+          <mxGeometry x="185" y="504" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="390" as="sourcePoint" />
+            <mxPoint x="300" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-46" value="Confirma Venda" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="585" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-47" value="7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;shadow=0;rounded=1;gradientColor=none;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="428" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uughUS0tM0GX5OJOnPxA-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.057;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="uughUS0tM0GX5OJOnPxA-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="500" as="sourcePoint" />
+            <mxPoint x="113" y="532" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
